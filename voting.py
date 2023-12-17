@@ -1,6 +1,6 @@
 # OGOCHUKWU JANE OKAFOR
 # 201666459
-# VOTING RULES ASSIGNMENT
+# VOTING RULES
 
 import numpy as np
 import openpyxl
