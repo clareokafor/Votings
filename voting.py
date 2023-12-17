@@ -1,5 +1,6 @@
 # OGOCHUKWU JANE OKAFOR
 # 201666459
+
 # VOTING RULES
 
 import numpy as np
